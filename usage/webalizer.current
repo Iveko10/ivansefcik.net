@@ -1,0 +1,729 @@
+# Webalizer V2.23-08 Incremental Data - 01/09/2018 06:14:10
+2018 1 9 6 14 10
+202 91 116 18 12 99 539529 166 123 0 3540143 159985
+3 5 46 1 9
+19 17 45284 12 14 8 389492 6677
+26 18 91874 9 20 9 498796 7266
+3 3 8756 3 3 3 38433 791
+23 21 239429 10 19 9 203296 6931
+5 2 2809 4 2 2 88442 1625
+58 10 65175 41 55 41 940638 102243
+52 10 51613 47 46 44 1122846 28808
+10 5 18019 7 5 5 191560 3494
+6 5 16570 3 2 2 66640 2150
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+12 11 41066 7 264392 4262
+5 4 8062 3 94688 1724
+5 1 1176 2 66525 1668
+3 0 896 1 85804 1123
+4 2 7376 3 69760 1185
+2 2 6800 2 25756 421
+8 4 10641 1 97269 3074
+5 4 200936 3 87560 1807
+3 3 8756 3 18998 679
+2 2 6800 2 30658 535
+3 2 6110 1 76858 1219
+1 1 1956 1 5441 302
+9 7 13257 8 162421 2975
+57 15 57119 57 839660 33532
+4 4 8756 4 96424 1058
+15 13 81363 13 259820 3395
+1 1 1956 1 8712 307
+44 4 39853 43 912441 25839
+3 3 8756 3 75836 727
+0 0 0 0 0 0
+9 3 16134 6 79879 71462
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 5 11760 2 181241 2691
+0
+0
+0
+91
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+8
+102
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wordpress/wp-includes/wlwmanifest.xml
+0 1 0 1045 0 0 8832 310
+/gallery/experiments.php
+0 4 0 8464 1 1 82699 1384
+/wordpress/barbora-jahodnikova/
+0 1 0 6682 1 0 19238 449
+/css/style_CSS.css
+0 4 0 15484 0 0 88578 1659
+/gallery/
+0 2 0 5424 0 0 18721 525
+/gallery/nature.php
+0 3 0 9209 0 0 39959 927
+/css/lightbox.css
+0 2 0 2214 0 0 44104 845
+/gallery/portraits.php
+0 2 0 11620 0 0 19043 551
+/images/galleries/weddings/hostina a zábava-18 – kópia (Custom).jpg
+1 1 0 194785 0 0 3205 458
+/about.php
+0 2 0 7988 0 0 18727 527
+/gallery/weddings.php
+0 3 0 10919 1 0 31181 988
+/wordpress/wp-includes/js/wp-embed.min.js
+0 2 0 1502 0 0 48786 891
+/script/lightbox/lightbox.min.js
+0 2 0 5792 0 0 43976 845
+/wordpress/wp-includes/js/wp-emoji-release.min.js
+0 2 0 8646 0 0 48863 907
+/wordpress/stretnutie-6/
+0 1 0 6441 0 1 28918 392
+/gallery/urban.php
+0 2 0 9693 0 0 18741 543
+/
+0 55 0 192632 47 8 879017 15919
+/contact.php
+0 2 0 7148 0 0 18487 531
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-66-86.googlebot.com
+0 1 1 4323 0 0 29183 449
+-
+static-ip-adsl-190.186.111.59.cotas.com.bo
+0 1 1 6800 1 1515346669 20175 194
+/
+111.3.108.44
+0 1 1 6800 1 1515245939 17051 728
+/
+spider-4.lipperhey.com
+0 14 12 79407 1 1514906791 253396 3093
+/
+ec2-52-70-148-50.compute-1.amazonaws.com
+0 1 0 306 1 1515346634 19191 575
+-
+proma-consulting.cloud.iso2handle.com
+0 6 4 7389 1 1514809334 140251 2259
+/
+host224-154-249-5.static.serverdedicati.aruba.it
+0 1 0 304 1 1515346708 21405 577
+-
+13.73.1.69
+0 2 0 633 2 1515346702 37990 1180
+-
+srxlsi006.ipi9.net
+0 1 0 324 1 1515245914 16328 983
+-
+74.115.214.148
+0 1 1 0 1 1514816298 22459 278
+/
+ritt-177-90.ranksitt.net
+0 1 0 337 1 1515346650 19695 587
+-
+118.175.36.35
+0 1 0 321 1 1515346643 19490 620
+-
+crawl-66-249-64-222.googlebot.com
+0 2 0 584 1 1514863362 56965 711
+-
+77.74.25.125
+0 1 0 322 1 1515346694 20932 238
+-
+58.ip-142-44-246.net
+0 1 0 318 1 1515246179 23928 592
+-
+74.115.214.141
+0 1 1 0 1 1515250584 24872 278
+/
+vps5383.publiccloud.com.br
+0 1 0 325 0 0 21020 191
+-
+238.50.196.181.static.anycast.cnt-grms.ec
+0 1 0 331 1 1515346711 21501 253
+-
+172.241.151.27
+0 1 1 0 1 1515118046 10760 278
+/
+crawl-66-249-64-220.googlebot.com
+0 5 0 1526 1 1515380133 93453 2026
+-
+118.193.107.146
+0 1 0 292 1 1515245914 16329 867
+-
+142.234.115.155
+0 2 2 1956 2 1515024467 15675 536
+/
+li255-214.members.linode.com
+0 1 1 6800 1 1515245905 16103 300
+/
+74.115.214.154
+0 1 1 0 1 1514883637 7520 278
+/
+crawl-66-249-64-215.googlebot.com
+0 7 3 11267 1 1515027766 123032 2414
+/
+crawl-66-249-64-203.googlebot.com
+0 1 1 1956 1 1515406849 25577 499
+/
+195.209.125.98
+0 1 0 315 1 1515245919 16439 568
+-
+46.218.73.162
+0 1 1 6800 1 1515245915 16348 245
+/
+175.145.107.18
+0 1 0 314 1 1515346657 19831 595
+-
+ec2-35-162-127-244.us-west-2.compute.amazonaws.com
+0 1 0 292 1 1515346634 19206 596
+-
+103.251.165.10
+0 2 0 633 1 1515245918 32811 2635
+-
+146.185.223.91
+0 9 3 16134 1 1515272070 79879 71462
+-
+researchscan19.comsys.rwth-aachen.de
+0 2 2 3912 1 1514792872 23894 414
+/
+host206-252-177-94.static.arubacloud.com
+0 1 0 311 1 1515346644 19498 611
+-
+crawl-66-249-66-87.googlebot.com
+0 1 1 751 0 0 29163 441
+-
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com
+0 4 4 7824 4 1515423917 32003 1208
+/
+196.15.243.22
+0 1 0 335 1 1515245937 17017 741
+-
+ec2-13-113-12-133.ap-northeast-1.compute.amazonaws.com
+0 1 0 315 1 1515346865 26377 612
+-
+95.ry.cz
+0 2 0 631 1 1515346851 45247 858
+-
+114.215.102.168
+0 1 1 6800 1 1515346646 19589 260
+/
+110.78.178.166
+0 1 0 313 1 1515346689 20671 274
+-
+ec2-52-214-42-193.eu-west-1.compute.amazonaws.com
+0 1 0 312 1 1515246165 23498 614
+-
+122.228.179.178
+0 1 0 322 1 1515245916 16370 599
+-
+b3ead0e7.virtua.com.br
+0 1 0 320 1 1515245964 17755 233
+-
+51.143.97.158
+0 1 0 311 1 1515245946 17221 596
+-
+crawl-66-249-64-193.googlebot.com
+0 1 0 284 0 0 15343 311
+-
+172.241.151.28
+0 1 1 0 1 1515088955 24727 278
+/
+7d.51.559e.ip4.static.sl-reverse.com
+0 2 2 13600 2 1515216537 37578 285
+/
+74.115.214.147
+0 1 1 0 1 1514783578 12697 278
+/
+1.179.233.66
+0 6 1 8336 2 1515346704 107397 3442
+-
+178.206.193.59
+0 3 1 7446 1 1515245924 49187 1981
+/
+103.199.147.122
+0 1 0 292 1 1515245908 16223 597
+-
+ur91.uranus.fastwebserver.de
+0 1 0 285 0 0 11411 332
+-
+ip-217-182-92.eu
+0 2 0 630 1 1515246169 41775 1244
+-
+210.212.119.74
+0 1 1 6800 1 1515346633 19170 204
+/
+188-167-216-177.dynamic.chello.sk
+0 1 1 194785 0 0 3205 458
+-
+li995-137.members.linode.com:42988
+0 1 0 363 1 1515346779 23789 890
+-
+static.vnpt.vn
+0 1 0 308 1 1515245917 16391 574
+-
+unassigned
+0 1 0 275 1 1514867028 31726 363
+/
+124.238.235.135
+0 1 0 292 1 1515346649 19667 729
+-
+msnbot-157-55-39-103.search.msn.com
+0 1 1 1956 1 1515367546 12318 347
+/
+74.115.214.134
+0 1 1 0 1 1515333265 29164 278
+/
+msnbot-157-55-39-32.search.msn.com
+0 1 0 279 0 0 12193 323
+-
+116.58.251.142
+0 1 0 292 1 1515346655 19804 800
+-
+hn.kd.ny.adsl
+0 1 0 313 1 1515346658 19877 831
+-
+83.239.19.3
+0 1 0 315 1 1515346695 20942 545
+-
+7c.51.559e.ip4.static.sl-reverse.com
+0 1 1 6800 1 1515370095 19098 142
+/
+103.201.140.10
+0 1 0 311 1 1515346651 19709 520
+-
+77.51.559e.ip4.static.sl-reverse.com
+0 1 1 6800 1 1515054617 8433 143
+/
+111.20.46.116
+0 1 1 6800 1 1514939961 12795 211
+/
+ip-109-196-253-72.static.system77.pl
+0 1 0 292 1 1515346636 19265 680
+-
+119.42.93.112
+0 1 0 337 1 1515245925 16642 591
+-
+116.199.115.79
+0 1 1 6800 1 1514885236 23138 257
+/
+203.189.149.81
+0 1 0 292 1 1515346673 20313 802
+-
+103.251.165.13
+0 2 0 590 1 1515245990 34840 1090
+-
+www.whois.sc
+0 2 1 2239 1 1514879876 60461 935
+/
+119.42.94.178
+0 1 0 309 1 1515245916 16367 591
+-
+197.251.209.20
+0 1 0 321 1 1515346692 20763 557
+-
+74.115.214.156
+0 1 1 0 1 1514942935 24360 278
+/
+vmi125433.contaboserver.net
+0 1 0 331 1 1515346732 22242 297
+-
+46.16.226.222
+0 1 0 308 1 1515346633 19176 544
+-
+180.240.230.25
+0 1 0 292 1 1515346986 29792 1009
+-
+182.253.205.85
+0 1 0 306 1 1515245922 16558 549
+-
+25.80.01a8.ip4.static.sl-reverse.com
+0 1 1 6800 1 1515470486 5246 141
+/
+ec2-35-154-200-203.ap-south-1.compute.amazonaws.com
+0 1 0 332 1 1515346637 19292 593
+-
+31.3.145.189
+0 1 0 315 1 1515246170 23636 667
+-
+ec2-54-183-130-127.us-west-1.compute.amazonaws.com
+0 3 3 5868 3 1515371242 57167 921
+/
+111.20.46.87
+0 1 1 6800 1 1514815433 30233 200
+/
+110.77.181.122
+0 1 0 320 1 1515346647 19624 813
+-
+203.177.36.84
+0 1 0 312 1 1515346858 26217 553
+-
+167-249-169-6.wikitelecom.com.br
+0 1 0 303 1 1515346639 19334 1147
+-
+64-76-24-66.static.impsat.net.ar
+0 1 0 292 1 1515245918 16398 690
+-
+211.159.171.58
+0 1 0 313 1 1515346653 19763 834
+-
+fa218.43.fix-addr.vsi.ru
+0 1 0 321 1 1515245971 18005 972
+-
+103.87.16.254
+0 1 0 324 1 1515346634 19204 790
+-
+103.251.165.18
+0 1 0 321 1 1515245915 16333 644
+-
+177.126.81.63.sim.palmas.br
+0 1 0 346 1 1515245934 16920 695
+-
+ec2-34-243-61-177.eu-west-1.compute.amazonaws.com
+0 10 10 16834 1 1515072736 6528 3196
+/gallery/experiments.php
+crawl-66-249-64-205.googlebot.com
+0 4 2 6393 1 1515113051 105730 1403
+/
+103.195.24.81
+0 1 0 336 1 1515346633 19156 577
+-
+121.196.226.246
+0 2 0 617 2 1515346638 35578 1913
+-
+182.253.179.133
+0 1 0 292 1 1515245961 17642 951
+-
+103.251.165.6
+0 1 0 331 1 1515245990 18460 277
+-
+174.ip-137-74-168.eu
+0 1 0 313 1 1515245928 16773 991
+-
+li1447-246.members.linode.com
+0 1 0 285 0 0 11822 332
+-
+142.234.115.154
+0 2 2 0 2 1514883557 18814 560
+/
+ip128.ip-178-32-213.eu
+0 1 0 309 1 1515346644 19500 626
+-
+89-236-17-106.customer.t3.se
+0 3 0 963 2 1515346653 52434 1553
+-
+103.251.165.5
+0 1 0 370 1 1515346709 21433 661
+-
+14.1.41.201.host.layer2.co.nz
+0 1 0 304 1 1515245913 16299 578
+-
+host30-3-237-212.serverdedicati.aruba.it
+0 1 0 292 1 1515245910 16249 592
+-
+crawl-66-249-64-217.googlebot.com
+0 9 9 19488 2 1515478445 195450 3868
+/gallery/weddings.php
+84.95.87.84.static.012.net.il
+0 2 0 578 2 1515346633 36306 1129
+-
+researchscan20.comsys.rwth-aachen.de
+0 2 2 3912 1 1515070062 20892 414
+/
+randoshka-front1.mh00s.net
+0 1 0 321 1 1515246146 22948 662
+-
+crawl-66-249-64-219.googlebot.com
+0 3 3 15079 2 1515027727 65123 1210
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-64-215.googlebot.com
+0 1 0 279 0 0 12222 306
+-
+25.80.01a8.ip4.static.sl-reverse.com
+0 1 1 6800 1 1515470486 5246 141
+/
+crawl-66-249-64-217.googlebot.com
+0 4 4 9491 1 1515478445 49172 1703
+/gallery/weddings.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://ivansefcik.net/wordpress/barbora-jahodnikova/
+1 2
+http://ivansefcik.net/gallery/weddings.php
+1 3
+http://ivansefcik.net/
+1 1
+- (Direct Request)
+0 177
+http://www.ivansefcik.net/
+1 1
+http://ivansefcik.net/wordpress/stretnutie-6/
+1 2
+http://uptime-eu.net/ivansefcik.net
+1 2
+http://uptime-us.net/ivansefcik.net
+1 2
+http://forum.ivansefcik.net/
+1 1
+http://whois.domaintools.com/ivansefcik.net
+1 1
+http://uptime-as.net/ivansefcik.net
+1 7
+http://ivansefcik.net/gallery/experiments.php
+1 3
+# End Of Table - referrers
+# -agents- 
+Mobile/4.11 (iPhone 6.8; hr_HR;)
+0 1
+IBrowse/20.18 (Android 4.8; zh_SG;)
+0 1
+GNU IceCat/15.6 (BlackBerry 7.2; en_CA;)
+0 1
+IBrowse/3.0 (BlackBerry 1.9; da_DK;)
+0 1
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 6
+GNU IceCat/9.2 (Redhat Linux 2.0; en_AU;)
+0 1
+Netscape/2.18 (Linux 2.4.22-10mdk 3.5; ar_TN;)
+0 1
+B-l-i-t-z-B-O-T/6.3 (FreeBSD 2.5; en;)
+0 1
+Opera/11.8 (Redhat Linux 7.1; zh;)
+0 1
+Maxthon/7.19 (Edubuntu 3.0; cs_CZ;)
+0 1
+TenFourFox/4.14 (Windows Vista 1.8; ar_YE;)
+0 1
+Seamonkey/16.2 (Windows 98 1.9; pt-BR;)
+0 1
+SeaMonkey/5.17 (Arch Linux 3.8; et;)
+0 1
+Opera/18.3 (BlackBerry 6.3; sq;)
+0 1
+Opera/5.16 (Windows 3.1 7.2; ar_KW;)
+0 2
+SeaMonkey/5.6 (Android 1.4; hr_HR;)
+0 1
+Konqueror/7.14 (iPad 7.5; sk-SK;)
+0 1
+Internet Explorer/2.5 (Unix 5.5; fr_CH;)
+0 1
+Internet Explorer/12.9 (Debian Linux 3.0; en_NZ;)
+0 1
+Safari/7.13 (Windows 2000 3.1; en_SG;)
+0 1
+Dragon/6.0 (Redhat Linux 4.7; ar_EG;)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 32
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G360F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+GNU IceCat/14.3 (Redhat Linux 7.2; en_CA;)
+0 1
+GNU IceCat/12.14 (Windows 95 5.4; fi;)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 7
+Tor Browser/14.17 (Ark Linux 4.1; bg;)
+0 1
+Firefox/3.1 (Windows Vista 2.4; ar_SY;)
+0 1
+Konqueror/19.4 (Ubuntu 3.2; ar_AE;)
+0 1
+Netscape/8.16 (Nokia 1.6; fr_CH;)
+0 1
+Dragon/17.2 (CRUX Linux 5.1; en;)
+0 1
+Netscape/12.20 (Windows XP 5.4; ar_YE;)
+0 1
+IBrowse/16.6 (Windows 2000 7.7; ar_BH;)
+0 1
+Tor Browser/11.8 (Arch Linux 7.6; ar_OM;)
+0 1
+Googlebot-Image/1.0
+0 1
+Seamonkey/6.8 (Edubuntu 1.3; pt-BR;)
+0 1
+Chrome/5.11 (Damn Small Linux 2.5; da_DK;)
+0 2
+CriOS/19.9 (Unix 2.9; fi_FI;)
+0 2
+Konqueror/2.18 (Unix 6.0; de_AT;)
+0 1
+CriOS/11.18 (Arch Linux 5.3; ar_OM;)
+0 1
+Maxthon/14.10 (BeOS 2.7; ar_QA;)
+0 1
+Konqueror/3.20 (Conectiva (Mandriva) 7.8; ar_AE;)
+0 1
+Tor Browser/19.3 (Debian Linux 3.8; en_US;)
+0 1
+Seamonkey/2.20 (Ubuntu 1.3; ca_ES;)
+0 1
+GNU IceCat/16.8 (Edubuntu 3.2; en_IN;)
+0 1
+GNU IceCat/15.4 (BeOS 7.7; ar_SY;)
+0 1
+Safari/2.5 (OS 10.5 1.8; sq;)
+0 1
+TenFourFox/11.15 (Macintosh 3.1; da;)
+0 1
+Maxthon/19.15 (Windows NT 6.1 6.7; cs-CZ;)
+0 1
+IBrowse/14.18 (Linux 2.4.22-10mdk 6.1; be_BY;)
+0 1
+Konqueror/8.20 (Windows 95 6.0; zh_CN;)
+0 1
+Konqueror/7.15 (Arch Linux 3.4; bg;)
+0 1
+Mozilla/5.0 zgrab/0.x
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Trident/5.0)
+0 1
+Netscape/14.14 (BackTrack Linux 7.5; ar_LB;)
+0 3
+TenFourFox/1.16 (Windows 95 6.3; zh_TW;)
+0 1
+Opera/2.12 (BeOS 2.7; fr_LU;)
+0 1
+Netscape/16.18 (Windows 3.1 3.5; en;)
+0 1
+Seamonkey/5.3 (Ubuntu 3.3; ar_SD;)
+0 1
+Konqueror/9.0 (BeOS 2.8; nl_BE;)
+0 1
+Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 10
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+IBrowse/6.17 (Windows 2000 7.1; ar_TN;)
+0 1
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 1
+TenFourFox/4.0 (CRUX Linux 3.5; ca;)
+0 3
+Flock/7.14 (Ubuntu 2.3; fr_FR;)
+0 1
+Mobile/4.11 (Windows NT 4.5; ar_IQ;)
+0 1
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 12
+TenFourFox/18.13 (FreeBSD 2.3; de_DE;)
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 2
+Firefox/19.17 (Redhat Linux 5.3; en_PH;)
+0 1
+B-l-i-t-z-B-O-T/1.20 (AmigaOS 5.0; fi;)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 1
+Konqueror/4.5 (Windows XP 2.2; ar_MA;)
+0 1
+Mozilla/5.0 (compatible; Dataprovider.com;)
+0 13
+IBrowse/5.17 (Macintosh 1.1; sk-SK;)
+0 2
+Seamonkey/3.17 (Ubuntu 6.7; en_ZA;)
+0 1
+IBrowse/3.8 (Unix 3.5; sq_AL;)
+0 1
+IBrowse/13.20 (Ubuntu 5.3; ar_DZ;)
+0 1
+B-l-i-t-z-B-O-T/18.3 (Edubuntu 3.4; be;)
+0 1
+TenFourFox/2.20 (iPhone 3.5; en-US;)
+0 1
+Opera/16.11 (Unix 3.9; zh;)
+0 1
+CriOS/20.4 (FreeBSD 4.4; en_MT;)
+0 1
+GNU IceCat/6.0 (iPad 6.4; ar_MA;)
+0 1
+GNU IceCat/15.6 (BackTrack Linux 1.2; ar_LB;)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 9
+B-l-i-t-z-B-O-T/12.12 (Unix 6.3; fi_FI;)
+0 1
+Konqueror/2.14 (Macintosh 2.3; da;)
+0 1
+Internet Explorer/11.10 (iPhone 5.5; sq;)
+0 2
+CriOS/17.2 (BitLinux 6.2; en_NZ;)
+0 1
+GNU IceCat/11.10 (Edubuntu 1.9; ar_TN;)
+0 1
+TenFourFox/15.12 (BitLinux 6.3; en_ZA;)
+0 1
+SeaMonkey/10.19 (Nokia 1.9; cs-CZ;)
+0 1
+Konqueror/20.8 (Windows 3.1 2.3; ar_QA;)
+0 1
+Netscape/5.5 (iPhone 2.1; fr_LU;)
+0 1
+Flock/5.7 (BackTrack Linux 1.1; en_MT;)
+0 1
+Flock/9.11 (Windows 3.1 4.5; ar_EG;)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
