@@ -33,18 +33,28 @@
                     <div class="text-about">
                         <div class="margin center-text">
                             <p>
-                                <strong>Študent Slovenskej Technickej Univerzity v Bratislave</strong>
+                                <strong>absolvent Slovenskej Technickej Univerzity v Bratislave</strong>
                             </p>
                             <p>
                                 <strong>Fakulta elektrotechniky a informatiky</strong>
                             </p>
-                            <p>Dosiahnuté vzdelanie: <br> <span>Bakalársky titul z Aplikovanej Informatiky</span></p>
+                            <p>Dosiahnuté vzdelanie: <br> <span>Inžiniersky titul z Aplikovanej Informatiky</span></p>
                             <hr>                            
-                        </div> 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lectus libero, sagittis id nisl quis, pulvinar faucibus sapien. Maecenas at viverra lacus, a pellentesque leo. Cras tristique diam vitae dolor sagittis, vel aliquet dui mattis. Proin pharetra lacinia sapien eget venenatis. Suspendisse potenti. Vestibulum quam sem, gravida ultricies neque quis, commodo sollicitudin dui. Phasellus ornare sit amet orci et blandit. Pellentesque pellentesque consectetur rutrum. Duis eget eros sit amet eros luctus suscipit vel non ante. Nunc laoreet varius tellus quis vestibulum. Quisque pharetra, nulla ac dapibus ornare, urna felis lacinia eros, iaculis sodales mauris justo a mi. Quisque nec lacus eget libero tincidunt eleifend. Nunc consectetur velit eget lorem volutpat, at convallis erat mollis. Vivamus ipsum felis, imperdiet eu interdum a, sodales a nulla.
-                            <br><br>
-                        Aenean cursus nunc felis, a placerat turpis elementum eu. Vivamus tempor pulvinar sapien, ac aliquet urna fermentum non. Etiam quis bibendum lorem, et suscipit eros. Aenean imperdiet posuere augue id semper. Maecenas massa velit, porttitor et sapien quis, lacinia fermentum metus. Ut non nulla eget neque feugiat ullamcorper. Morbi nibh lacus, faucibus eget eros sed, dapibus ultricies lorem.
-                        </p><br><br>
+                        </div>
+                        <div style="text-align: center;"> 
+                        <p>
+                            Ahoj, volám sa Ivan a teším sa z tvojej prítomnosti v mojom malom portfóliu.<br> 
+                            Nájdeš tu ukážku mojej fotografickej tvorby a ďaľšie odkazy na moje sociálne účty.<br><br>
+                            <span style="font-weight: 700;">Počas prechádzok a výletov som zistil ako fotiť prírodu. Počas trávenia voľného času s kamarátmi som zistil ako
+                            fotiť portréty a počas spoznávania nových ľudí som zistil ako fotiť svatby a narodeninové oslavy.</span><br><br>
+                            Ak sa ti môj štýl fotenia páči a chcel by si odo mňa fotky<a href="./laboratory.php">,</a> neváhaj mi napísať a môžme spolu
+                            splniť tvoje predstavy. 
+                        </p>
+                            
+                        </div>
+                        
+                        <br><br>
+                        
                         <div class="center-text"><hr></div>
                         <div class="contact-link" >
                             <h3>Poďme si písať, napíš mi!</h3>
