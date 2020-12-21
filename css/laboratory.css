@@ -1,0 +1,49 @@
+.laboratory_containter{
+    background-color: antiquewhite;
+    min-height: 70rem;
+}
+
+
+.lab_images_container{
+    position: relative;
+    display: block;
+    height: 350px;
+    width: 100%;
+}
+
+.lab_image{
+    display: block;
+    float: left;
+    height: 100%;
+}
+
+#labimg1{
+    position: relative;
+    background-image: url("../images/laboratory1.jpg");
+    width: 60%;
+    background-size: cover;
+    background-position-y: 80%;
+}
+
+#labimg2{
+    position: relative;
+    background-image: url("../images/laboratory2.jpg");
+    background-size: cover;
+    width: 40%;
+}
+
+.lab_form_container{
+    text-align: center;
+    background-color: pink;
+    margin: 5rem auto;
+    width: 50%;
+}
+
+.lab_form_container form label {
+    width: 25%;
+    float: left;
+}
+.lab_form_container form input{
+    width: 75%;
+    display: block;
+}
