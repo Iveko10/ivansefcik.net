@@ -1,0 +1,14 @@
+.watermark__logo__container { position: relative; }
+
+.watermark__logo__container>a {
+    display: block;
+    padding: 7px 0 6px;
+}
+
+.watermark__logo {
+    background-image: url("../../../../../../images/logo/iv-photo.svg");
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 40px;
+    margin: auto;
+}
