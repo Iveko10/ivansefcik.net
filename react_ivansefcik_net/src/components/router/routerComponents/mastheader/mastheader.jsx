@@ -12,7 +12,6 @@ const Mastheader = props => {
 }
 
 Mastheader.propTypes = {
-
 };
 
 export default Mastheader;
